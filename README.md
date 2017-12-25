@@ -9,4 +9,6 @@ Run the below command
 yarn 
 #Or
 npm install
+# Run
+yarn start
 ```
